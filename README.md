@@ -3,5 +3,5 @@
   
   # Desenvolvedor Full Stack Java: Front-End - EBAC   
 
-## Projeto: Ajax/FetchAPI
+## Projeto: ES6
 </div>

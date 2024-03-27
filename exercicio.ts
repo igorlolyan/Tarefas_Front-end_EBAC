@@ -1,11 +1,12 @@
 function multiplicacao(x: number, y: number) {
-    console.log(x * y);
+    return(x * y);
 }
-multiplicacao(10, 15);
-
+const resultadoMultiplicacao= multiplicacao(10, 15);
+console.log(resultadoMultiplicacao)
 
 function saudacao(a: string, nome: string){
-    console.log(`${a}, ${nome}`)
+    return(`${a}, ${nome}`)
 }
 
-saudacao('Olá', 'Igor')
+const mostrarSaudacao = saudacao('Olá', 'Igor')
+console.log(mostrarSaudacao)

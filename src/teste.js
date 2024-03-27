@@ -1,1 +1,2 @@
-console.log("Olá Babel")
+"use strict";
+let nome = 'gian';
